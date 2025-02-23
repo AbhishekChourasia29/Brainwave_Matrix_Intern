@@ -1,6 +1,6 @@
 # Barinwave Matrix Internship AI/ML Intern Task -1 by Abhishek Chourasia
 
-# Fake News Detector Project
+# Fake News Detector Project Report
 
 This project is an end-to-end solution using machine learning and deep learning techniques to classify news articles as either **REAL** or **FAKE**. It includes real-time predictions, dynamic news headlines, and a responsive user interface, and is deployed locally using a Flask application.
 
