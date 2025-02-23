@@ -1,4 +1,4 @@
-# Barinwave Matrix Internship AI/ML Intern Task -1 
+# Barinwave Matrix Internship AI/ML Intern Task -1 by Abhishek Chourasia
 
 # Fake News Detector Project
 
